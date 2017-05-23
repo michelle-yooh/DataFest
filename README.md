@@ -1,0 +1,2 @@
+# DataFest
+I participated in DataFest, a data hackathon sponsored by many great organizatinos including ASA, Google, UWaterloo and the-cooperators. After 48 hours of intense work, my team received "Honorable Mention" award. I am posting here our 2-page presentation slides, and the jupyter notebooks that I worked on to analyze data. More description of DataFest can be found here: https://www.google.ca/search?q=datafest+waterloo&amp;oq=datafest+waterloo&amp;aqs=chrome..69i57.5256j0j4&amp;sourceid=chrome&amp;ie=UTF-8
